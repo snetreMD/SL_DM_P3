@@ -6,6 +6,7 @@ venv/
 *.exe
 *.spec
 *.conf
+*.bak
 
 **/lib/
 **/__pycache__
